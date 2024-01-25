@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Interning at TECNOTrends as a Fullstack Developer.
+- 💼 &nbsp; Interning at TecnoTRENDS as a Fullstack Developer.
 - 🎓 &nbsp; Studying Computer Science at UFBA.
 - 🌱 &nbsp; Learning more about AngularJS.
 
