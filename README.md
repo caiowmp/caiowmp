@@ -22,7 +22,8 @@
   ![Asp.Net](https://img.shields.io/badge/ASP.NET-333333?style=flat)
   
 - Back-end:
-  
+
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat)
   ![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat)
   ![NHibernate](https://img.shields.io/badge/NHibernate-333333?style=flat)
