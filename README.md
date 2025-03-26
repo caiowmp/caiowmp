@@ -20,6 +20,7 @@
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=red)
   ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=white)
   ![Asp.Net](https://img.shields.io/badge/ASP.NET-333333?style=flat)
+  ![Vue.js]()
   
 - Back-end:
 
